@@ -7,13 +7,13 @@ macOS Sequoia works fine. I can connect internet with TP-Link Type-C ethernet ad
 
 ## What's working
 
-iGPU graphical acc. (with NootedRed.kext)
-Battery Status
-Sound
-Brightness
-FN keys for control brightness, sound etc.
-USB 2.0 and 3.0 ports
-Touchpad
+- iGPU graphical acc. (with NootedRed.kext)
+- Battery Status
+- Sound
+- Brightness
+- FN keys for control brightness, sound etc.
+- USB 2.0 and 3.0 ports
+- Touchpad
 
 ## What's not working?
 
