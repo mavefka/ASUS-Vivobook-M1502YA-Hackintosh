@@ -3,7 +3,8 @@
 
 Ryzen 7 7730U 8C 16T / 16GB DDR4 3200MHz RAM / AMD Radeon Graphics iGPU (Vega 8)
 
-macOS Sequoia works fine. I can connect internet with TP-Link Type-C ethernet adapter. Disable NootedRed and enable WhateverGreen during installation, after u see desktop, u can reverse these changes.
+macOS Sequoia works fine. I can connect internet with TP-Link Type-C ethernet adapter. 
+Disable NootedRed and enable WhateverGreen during installation, after u see desktop, u can reverse these changes.
 
 ## What's working
 
@@ -17,11 +18,11 @@ macOS Sequoia works fine. I can connect internet with TP-Link Type-C ethernet ad
 
 ## What's not working?
 
-Realtek 8821CE Wireless and Bluetooth (u need to use dongles unluckily)
+- Realtek 8821CE Wireless and Bluetooth (u need to use dongles unluckily)
 
 ## What's not checked?
-HDMI Port (idk, i dont have second monitor.)
-Charging from type-c port (i forgot)
+- HDMI Port (idk, i dont have second monitor.)
+- Charging from type-c port (i forgot)
 
 ## Tested versions
 
@@ -32,5 +33,5 @@ Charging from type-c port (i forgot)
 
 ## Version
 
-Updated to OpenCore 1.0.3, i can't say anything for future updates.
+- Updated to OpenCore 1.0.3, i can't say anything for future updates.
   
