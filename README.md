@@ -3,7 +3,7 @@
 
 Ryzen 7 7730U 8C 16T / 16GB DDR4 3200MHz RAM / AMD Radeon Graphics iGPU (Vega 8)
 
-![image](https://github.com/user-attachments/assets/203e6f39-a880-447c-b722-ece026b56165)
+![image](https://github.com/user-attachments/assets/8b0bad2e-2776-4bd7-8ad3-f491547d8198)
 
 macOS Sequoia, Sonoma and Ventura works fine. I can connect internet with TP-Link Type-C ethernet adapter. 
 Disable NootedRed and enable WhateverGreen during installation, after u see desktop, u can reverse these changes.
